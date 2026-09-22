@@ -31,3 +31,6 @@ int main()
     printf("\nTotal shifts=%d\n",shift);
     return 0;
 }
+
+
+<img width="1079" height="809" alt="Image" src="https://github.com/user-attachments/assets/a70a230b-a7b2-43b6-8054-a52113f7e048" />
