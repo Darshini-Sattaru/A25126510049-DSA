@@ -33,3 +33,6 @@ int main()
     printf("Comparisons=%d\n",count);
     return 0;
 }
+
+
+[Q1 OP.pdf](https://github.com/user-attachments/files/32500953/78320.pdf)
