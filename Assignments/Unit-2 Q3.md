@@ -44,3 +44,8 @@ int main()
     printf("Postfix=%s\n",res);
     return 0;
 }
+
+
+
+
+<img width="1080" height="359" alt="Image" src="https://github.com/user-attachments/assets/9ef901a3-6878-41b3-9ead-9024424f6a19" />
