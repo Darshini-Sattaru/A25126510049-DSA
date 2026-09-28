@@ -75,3 +75,10 @@ int main()
 
     return 0;
 }
+
+
+
+
+<img width="467" height="241" alt="Image" src="https://github.com/user-attachments/assets/dbca1ec6-b9ce-4ef7-b34a-60a91e16e64e" />
+<img width="667" height="375" alt="Image" src="https://github.com/user-attachments/assets/7a5d2bba-ccee-40b4-baa0-9ab2c1ad80ba" />
+<img width="517" height="262" alt="Image" src="https://github.com/user-attachments/assets/e9f68580-1669-4b0e-b58f-5de0bce542ef" />
