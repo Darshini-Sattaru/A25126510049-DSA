@@ -35,4 +35,8 @@ int main()
 }
 
 
-[Q1 OP.pdf](https://github.com/user-attachments/files/32501115/Q1.OP.pdf)
+
+
+<img width="1080" height="600" alt="Image" src="https://github.com/user-attachments/assets/8140cf9c-36e4-4636-a73b-1181addfea5f" />
+<img width="4320" height="2304" alt="Image" src="https://github.com/user-attachments/assets/e76eabff-aadf-404c-9e58-28e5b4535403" />
+<img width="4320" height="2260" alt="Image" src="https://github.com/user-attachments/assets/fd05831d-d95c-4b2e-b5fc-375e3b2cde0e" />
