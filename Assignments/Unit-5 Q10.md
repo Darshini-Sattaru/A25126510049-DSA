@@ -89,3 +89,10 @@ int main()
 
     return 0;
 }
+
+
+
+
+<img width="701" height="516" alt="Image" src="https://github.com/user-attachments/assets/63dd20c5-8bca-4d10-ab10-2f0fcb6cd183" />
+<img width="701" height="516" alt="Image" src="https://github.com/user-attachments/assets/31a6ceec-6be4-4701-9700-c8ab4a2f5238" />
+<img width="692" height="232" alt="Image" src="https://github.com/user-attachments/assets/2104cd4c-8ea4-4b2e-9ede-17afb3518441" />
